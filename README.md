@@ -17,3 +17,11 @@
 ## Você quer ajudar ? 
   
    Seja bemv indo! Crie um fork e vamos codar.
+
+## Ferramentas
+https://developer.android.com/sdk/index.html
+
+## Material 
+https://developer.android.com/guide/index.html
+
+
